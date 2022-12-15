@@ -8,3 +8,7 @@ body{
   color: lightgray;
   font-family:'Courier New', Courier, monospace;
 }
+.container{
+  text-align: center;
+  width: 300px;
+}
