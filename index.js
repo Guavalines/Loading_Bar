@@ -8,4 +8,8 @@ updateNum()
 function updateNum(){
   counterE1.innerText = idx + "%"
   barE1.style.width = idx + "%"
+  idx++
+  if(idx < 101){
+    setTimeout(updateNum, 20)
+  }
 }
