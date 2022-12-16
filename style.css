@@ -34,7 +34,7 @@ body{
 .loading-bar-front{
   position: absolute;
   height: 8px;
-  background-color: orangered;
+  background-color: rgb(255, 0, 0);
   width: 0%;
   border-radius: 5px;
   border: none;
