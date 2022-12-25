@@ -1,4 +1,6 @@
-[Loading Bar](https://guavalines.github.io/Loading_Bar/)
+# LOADING BAR
+
+Check it out here: [Loading Bar](https://guavalines.github.io/Loading_Bar/)
 
 ### Versions
 
