@@ -1,4 +1,4 @@
-# [LOADING BAR](https://guavalines.github.io/Loading_Bar/) ☜ see it here
+# [🌀 LOADING BAR](https://guavalines.github.io/Loading_Bar/) ☜ see it here
 
 # Description
 This code creates a loading bar animation that fills up to 100% by incrementing a variable and updating the width and text properties of two HTML elements.
